@@ -7,10 +7,6 @@ This project is a full-stack web application built using the MERN (MongoDB, Expr
 - [Overview](#overview)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -18,19 +14,15 @@ Explore the perfect property with our MERN stack-powered website. Discover a sea
 
 ## Prerequisites
 
-Outline the prerequisites needed to run the project. Include dependencies, tools, or services that users need to have installed or set up before running the application.
-
 - Node.js and npm
 - MongoDB
 - ...
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up the project locally.
-
 ```bash
 # Clone the repository
-git clone https://github.com/himanshu1161/Property4u/new/main
+git clone https://github.com/himanshu1161/Property4u/
 
 # Navigate to the project folder
 cd your-mern-project
